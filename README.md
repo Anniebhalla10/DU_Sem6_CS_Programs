@@ -1,2 +1,2 @@
-# MachineLearning
-Conatins the algorithms implemented from scratch
+# Machine Learning, Data Mining, Artificial Intelligence, Computer Graphics
+All DU programs
